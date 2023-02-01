@@ -50,7 +50,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google_site_verification : "google-site-verification=BSg_mdTcCCu1RPHqPVt0gmm0AsdD7u2_9Pkb-pCf0co"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -175,9 +175,9 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
+  #teaching:
+  #  output: true
+  #  permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
